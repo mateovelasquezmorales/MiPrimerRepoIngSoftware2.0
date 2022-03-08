@@ -12,3 +12,6 @@ This is a project trying to guide *students* throughout **github** and readme [f
 
 - Bullet 1
 - Bullet 2
+
+## Version 1.0.0
+  - Change documentation inside the readMe file just for testing purposes
